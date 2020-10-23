@@ -4,7 +4,7 @@ title: Crazy ML
 show-avatar: false
 subtitle: ...Data Cloud ML Blog
 bigimg:
-  - 'img/bigimg/bg-home.jpg': "Photo by Dariusz Sankowski on Unsplash"
+  - 'img/bigimg/bg-home.jpg'
 use-site-title: true
 css: '/css/extend-home.css'
 ---
