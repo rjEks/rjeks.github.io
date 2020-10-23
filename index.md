@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome
-show-avatar: true
-subtitle: ...to my personal blog about PowerShell, Automation and more.
+title: Crazy ML
+show-avatar: false
+subtitle: ...Data Cloud ML Blog
 bigimg:
   - 'img/bigimg/bg-home.jpg': "Photo by Dariusz Sankowski on Unsplash"
 use-site-title: true
