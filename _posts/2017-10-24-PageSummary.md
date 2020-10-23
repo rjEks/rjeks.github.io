@@ -16,7 +16,7 @@ So I started adding a little summary section like this:
 
 ```powershell
 {: .text-muted}
-As mentioned earlier, I will post powershell and automation related stuff here. I've already started
+As mentioned earlier, I will post power shell and automation related stuff here. I've already started
 thinking about the following posts.
 ```
 
